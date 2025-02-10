@@ -1,7 +1,4 @@
 #include "http.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <strings.h>
 
 extern connection connections[];
 extern int num_conns;
